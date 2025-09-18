@@ -37,6 +37,7 @@ DELETE	/api/posts/:id	Delete a specific post.
 📷 Screenshots 
 <p align="center">
   <img src="./public/ScreenShots/DashBoard.PNG" alt="Dashboard Screenshot" width="80%">
+  <img src="./public/ScreenShots/sideBar.PNG" alt="sideBar Screenshot" width="80%">
 </p>
 
 🛠️ Tech Stack
