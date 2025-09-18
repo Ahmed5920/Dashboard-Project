@@ -35,7 +35,7 @@ DELETE	/api/posts/:id	Delete a specific post.
 💡using API from https://jsonplaceholder.typicode.com/
 
 📷 Screenshots 
-![Dashboard Screenshot](./public/screenshot.png)
+![Dashboard Screenshot](./public/DashBoard.png)
 
 🛠️ Tech Stack
 React 18
